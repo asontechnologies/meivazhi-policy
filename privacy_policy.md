@@ -51,7 +51,7 @@ This app does not contain links to third-party websites or services. We do not s
 
 ## Children’s Privacy
 
-These Services do not address anyone under the age of 3. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 3 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+These Services do not address anyone under the age of 3. We do not knowingly collect personally identifiable information from children under 3. In the case we discover that a child under 3 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
 ## Location Data
 
